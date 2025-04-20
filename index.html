@@ -8423,19 +8423,18 @@
                         lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, "全部"]],
                         createdRow: function(row, data, dataIndex) {
                             // Delta 標色
-                            let delta = parseFloat(data[9]);
-                            if (!isNaN(delta)) {
-                                let abs_delta = Math.abs(delta);
-                                if (abs_delta > 0.2) {
+                            let otm = parseFloat(data[9].replace('%', '')) / 100
+                            if (!isNaN(otm)) {
+                                if (otm < 0.2) {
                                     $('td', row).eq(9).css('background-color', '#ffcccc'); // 紅
-                                } else if (abs_delta < 0.1) {
+                                } else if (otm >= 0.85) {
                                     $('td', row).eq(9).css('background-color', '#ccffcc'); // 綠
-                                } else if (abs_delta >= 0.1 && abs_delta < 0.2) {
+                                } else if (otm >= 0.2 && otm < 0.85) {
                                     $('td', row).eq(9).css('background-color', '#ffffcc'); // 黃
                                 } 
                             }
                             // AIR 標色
-                            let air = parseFloat(data[7]);
+                            let air = parseFloat(data[7].replace('%', '')) / 100
                             if (!isNaN(air)) {
                                 if (air >= 0.15 && air < 0.30) {
                                     $('td', row).eq(7).css('background-color', '#ccffcc'); // 綠
