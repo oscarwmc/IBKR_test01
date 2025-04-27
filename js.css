@@ -1,0 +1,26 @@
+
+// timestamp.js
+(function() {
+    // 當前時間戳
+    var timestamp = new Date().getTime();
+    
+    // 找到所有 <link> 和 <script> 標籤並為其添加時間戳
+    var cssLinks = document.querySelectorAll('link[rel="stylesheet"]');
+    var jsScripts = document.querySelectorAll('script[src]');
+
+    // 更新 CSS 文件
+    cssLinks.forEach(function(link) {
+        var href = link.getAttribute('href');
+        if (href) {
+            link.setAttribute('href', href + '?t=' + timestamp);
+        }
+    });
+
+    // 更新 JavaScript 文件
+    jsScripts.forEach(function(script) {
+        var src = script.getAttribute('src');
+        if (src) {
+            script.setAttribute('src', src + '?t=' + timestamp);
+        }
+    });
+})();
