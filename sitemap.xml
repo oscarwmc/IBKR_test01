@@ -2,62 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://oscarwmc.github.io/financial-site/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AAPL/AAPL_put_options_20250502/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AAPL/AAPL_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250502/</loc>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250502/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250502/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250502/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250502/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/NVDA/NVDA_put_options_20250523/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250502/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250509/</loc>
-         <lastmod>2025-04-26</lastmod>
+         <lastmod>2025-04-27</lastmod>
     </url>
 </urlset>
