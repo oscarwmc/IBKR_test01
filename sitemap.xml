@@ -2,66 +2,386 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://oscarwmc.github.io/financial-site/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AAPL/AAPL_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AAPL/AAPL_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/AAPL_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/AAPL_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_PRICE_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AAPL/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/AMZN_put_options_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/AMZN/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOG/GOOG_put_options_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/GOOGL_put_options_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/GOOGL/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/META_put_options_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/META/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/MSFT_put_options_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/MSFT/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_PRICE_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/NVDA/NVDA_put_options_20250523/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/NVDA/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/CBOE_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/CBOE_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/CBOE_PUT_CASH_SECURE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/CBOE_PUT_CASH_SECURE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/CBOE_PUT_PRICE_20250606/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/CBOE_PUT_PRICE_20250613/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/PHLX_PUT_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/PHLX_PUT_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250502/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
     </url>
     <url>
          <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250509/</loc>
-         <lastmod>2025-04-27</lastmod>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250516/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250523/</loc>
+         <lastmod>2025-06-02</lastmod>
+    </url>
+    <url>
+         <loc>https://oscarwmc.github.io/financial-site/TSLA/TSLA_put_options_20250530/</loc>
+         <lastmod>2025-06-02</lastmod>
     </url>
 </urlset>
